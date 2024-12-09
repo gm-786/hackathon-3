@@ -1,4 +1,3 @@
-
 import Link from "next/link";
 import Image from "next/image";
 import { FaSearch, FaHeart, FaShoppingBag } from "react-icons/fa"; // Import the icons
@@ -81,6 +80,3 @@ const Header = () => {
 };
 
 export default Header;
-
-
-
